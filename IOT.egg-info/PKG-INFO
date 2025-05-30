@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: IOT
+Version: 1.0
+Summary: 工业互联网期末源码（HO-SVR）
+Author: Aress
+Author-email: 20228132027@m.scnu.edu.cn
+Classifier: Programming Language :: Python :: 3.12
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
