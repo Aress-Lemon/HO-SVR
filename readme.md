@@ -11,12 +11,15 @@
 
 
 智能优化算法    
+
     Optimizer目录： 智能优化算法（HO、PSO...）
 
 模型训练（核心）
+
     module_c1_c4.py:  c1,c4做训练集； c6作为测试集
     module_c1_c4.py:  c1,c4做训练集； c6作为测试集
     module_c1_c4.py:  c1,c4做训练集； c6作为测试集
 
 模型对照
+
     LSTM目录
