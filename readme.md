@@ -3,6 +3,10 @@
 
     data目录： 特征提出后的数据（data_c1、data_c4、data_c6）
     data_loader.py: 用于提取时域特征
+    
+    **考虑到raw目录比较大（直接存放在网盘中...）
+    
+
 
 智能优化算法    
     Optimizer目录： 智能优化算法（HO、PSO...）
