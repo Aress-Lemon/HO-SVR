@@ -4,7 +4,9 @@
     data目录： 特征提出后的数据（data_c1、data_c4、data_c6）
     data_loader.py: 用于提取时域特征
     
-    **考虑到raw目录比较大（直接存放在网盘中...）
+    **考虑到raw，data目录比较大（直接存放在网盘中...）
+    **网盘网址： https://pan.baidu.com/s/1OXKLMHeGsm47dLtvNDqbrw
+    **提取码： 1111
     
 
 
